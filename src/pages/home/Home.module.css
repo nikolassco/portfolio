@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 60vh;
+}
+
+.presentation {
+  display: flex;
+  flex-direction: column;
+}
+
+.text {
+  padding: 0.5em;
+  margin-bottom: 2em;
+}
+
+.container img {
+  height: 250px;
+  width: 250px;
+}
