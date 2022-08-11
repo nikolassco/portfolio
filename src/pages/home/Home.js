@@ -8,7 +8,7 @@ const Home = () => {
       <div className={styles.presentation}>
         <div className={styles.text}>
           <p>Oi, eu sou Nikolas!</p>
-          <p>E este é o meu portfólio.</p>
+          <p>Desenvolvedor Front End.</p>
         </div>
         <div className={styles.link}>
           <a href='https://www.linkedin.com/in/nikolas-santa-clara-90619a16a/' className='btn-redirect'>Linkedin</a>
