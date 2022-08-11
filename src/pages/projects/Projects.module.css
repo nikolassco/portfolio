@@ -14,14 +14,12 @@
 }
 
 .cover img {
-  height: 30vh;
-  width: 60vh;
-  border-radius: 25px;
-  box-shadow: 10px 10px #3e3433;
+  height: 45vh;
+  width: 75vh;
 }
 
 .cover a {
-  margin-top: 1em;
+  margin-top: 2em;
   background-color: transparent;
   border: 1px solid #000;
   text-transform: uppercase;
