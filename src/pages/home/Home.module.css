@@ -18,4 +18,5 @@
 .container img {
   height: 250px;
   width: 250px;
+  box-shadow: none;
 }
