@@ -11,7 +11,8 @@ const Home = () => {
           <p>Desenvolvedor Front End.</p>
         </div>
         <div className={styles.link}>
-          <a href='https://www.linkedin.com/in/nikolas-santa-clara-90619a16a/' className='btn-redirect'>Linkedin</a>
+          {/* upload para guthub, copiar o link e trocar palavra blob por raw */}
+          <a href='https://github.com/nikolassco/asset/raw/main/Curriculo%20Nikolas%20Oliveira.pdf' download='' className='btn-redirect'>Currículo</a>
         </div>
       </div>
       <img src={imgProfile} alt="Foto do Perfil" />
