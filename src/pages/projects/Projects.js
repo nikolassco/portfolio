@@ -10,7 +10,7 @@ import { projectsList } from '../../data/projects';
 const Projects = () => {
   return (
     <div className={styles.container}>
-      <h1>Aqui estão os meus projetos</h1>
+      <h1>MEUS PROJETOS</h1>
       <div className={styles.cards}>
         {projectsList && projectsList.map((project) => (
           <div key={project.id} className={styles.cover}>

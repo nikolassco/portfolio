@@ -7,8 +7,8 @@ const Home = () => {
     <div className={styles.container}>
       <div className={styles.presentation}>
         <div className={styles.text}>
-          <p>Oi, eu sou Nikolas!</p>
-          <p>Desenvolvedor Front End.</p>
+          <h1>Oi, eu sou Nikolas!</h1>
+          <h2>Desenvolvedor Front End.</h2>
         </div>
         <div className={styles.link}>
           {/* upload para guthub, copiar o link e trocar palavra blob por raw */}
