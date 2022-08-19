@@ -33,3 +33,10 @@
   height: 60vh;
   width: 50vw;
 }
+
+@media only screen and (max-width: 768px) {
+  .container img {
+    height: 45vh;
+    width: 75vh;
+  }
+}
