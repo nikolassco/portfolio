@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/nikolassco/portfolio/blob/main/LICENSE) 
 
 # Sobre o projeto
-Versao antiga do meu portfolio. O codigo da versão nova está em https://github.com/nikolassco/portfolioreact
+Versao antiga do meu portfolio. A versão nova está em https://github.com/nikolassco/portfolioreact
 
 ## Layout
 ![Projeto](https://github.com/nikolassco/asset/blob/main/Portfolio%20-%20Google%20Chrome%2023_08_2022%2020_02_06.png)
