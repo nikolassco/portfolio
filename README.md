@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/nikolassco/portfolio/blob/main/LICENSE) 
 
 # Sobre o projeto
-Portfólio desenvolvido utilizando html, CSS e JS(ReactJS). O objetivo desse projeto foi reunir os meus projetos pessoais, com links para teste e para ver o código, e também links para entrar em contato comigo.
+Versao antiga do meu portfolio. O codigo da versão nova está em https://github.com/nikolassco/portfolioreact
 
 ## Layout
 ![Projeto](https://github.com/nikolassco/asset/blob/main/Portfolio%20-%20Google%20Chrome%2023_08_2022%2020_02_06.png)
@@ -21,7 +21,7 @@ Portfólio desenvolvido utilizando html, CSS e JS(ReactJS). O objetivo desse pro
 Tecnologia: JavaScript / REACTJS
 
 ## Link para testar o projeto e fazer pedido 
-https://portfolionikolas.netlify.app/
+https://portfolionikolasantigo.netlify.app/
 
 # Como executar o projeto
 
